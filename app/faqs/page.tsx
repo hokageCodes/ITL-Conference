@@ -15,6 +15,9 @@ const faqs: Faq[] = [
   { question: "How can I register?", answer: "Registration is available online through our website. Navigate to the registration section and fill in the required details." },
   { question: "How can I register?", answer: "Registration is available online through our website. Navigate to the registration section and fill in the required details." },
   { question: "How can I register?", answer: "Registration is available online through our website. Navigate to the registration section and fill in the required details." },
+  { question: "How can I register?", answer: "Registration is available online through our website. Navigate to the registration section and fill in the required details." },
+  { question: "How can I register?", answer: "Registration is available online through our website. Navigate to the registration section and fill in the required details." },
+  { question: "How can I register?", answer: "Registration is available online through our website. Navigate to the registration section and fill in the required details." },
   // Add more FAQs as needed
 ];
 
