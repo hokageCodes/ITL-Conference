@@ -1,5 +1,5 @@
 "use client"
-
+import './favicon.ico'
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/navbar/Navbar";
