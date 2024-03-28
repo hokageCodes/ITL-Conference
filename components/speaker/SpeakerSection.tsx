@@ -30,7 +30,7 @@ const SpeakerIntroSection = () => {
           variants={imageVariants}
           className="w-full lg:w-1/3 flex-shrink-0"
         >
-          <Image src="/img/obs.png" alt="Keynote Speaker" width={500} height={500} layout="responsive" />
+          <Image src="/img/Obs.png" alt="Keynote Speaker" width={500} height={500} layout="responsive" />
         </motion.div>
 
         {/* Text and CTA */}
