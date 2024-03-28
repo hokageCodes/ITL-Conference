@@ -24,7 +24,7 @@ const PreRegister = () => {
           {/* Text Content */}
           <div className="p-8 space-y-4 md:w-1/2">
             <h2 className="text-2xl font-bold pt-24 text-textPrimary">Why Pre-Register?</h2>
-            <p className='text-md'>Pre-registering for the ITL Conference gives you early access to tickets, exclusive updates, and more. Don't miss out on this opportunity to connect with industry leaders and peers.</p>
+            <p className='text-md'>Pre-registering for the ITL Conference gives you early access to tickets, exclusive updates, and more. Don&#39;t miss out on this opportunity to connect with industry leaders and peers.</p>
           </div>
 
           {/* Form */}

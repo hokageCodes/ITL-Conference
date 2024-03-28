@@ -49,7 +49,7 @@ export default function LandingFaqSection() {
       <div className="flex flex-col lg:flex-row gap-10">
         <div className="lg:w-1/2 space-y-6">
           <h2 className="text-2xl font-bold pt-12">Learn More About The ITL Conference</h2>
-          <p className='max-w-[500px]'>Welcome to the FAQ section. Here, you'll find answers to common questions about the ITL Conference, registration process, event details, and more. Explore the information to get the most out of your conference experience.</p>
+          <p className='max-w-[500px]'>Welcome to the FAQ section. Here, you will find answers to common questions about the ITL Conference, registration process, event details, and more. Explore the information to get the most out of your conference experience.</p>
         </div>
         <div className="lg:w-1/2 space-y-4">
           {faqs.map((faq, index) => (

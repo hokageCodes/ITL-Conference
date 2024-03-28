@@ -4,7 +4,7 @@ import PartnersSection from '@/components/partners/PartnersSection'
 import ScheduleSection from '@/components/schedule/ScheduleSection'
 
 
-export default function () {
+export default function page () {
   return (
     <div className='pt-24'>
         <AboutSection />
